@@ -14,7 +14,7 @@ export default function Home() {
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <main className={styles.main}>
-        <h1>Tyler Huynh is the greatest of all time</h1>
+        <h1>Tyler Huynh is the GOAT</h1>
       </main>
     </>
   );
